@@ -5,6 +5,7 @@ Project Overview
 Credit card fraud detection is essential to minimize financial losses. This project analyzes a dataset of credit card transactions to distinguish between legitimate and fraudulent transactions using machine learning techniques.
 
 Dataset
+
 The dataset is anonymized credit card transaction data with several features, such as transaction time, amount, and more. The target variable is a binary variable that indicates whether the transaction is fraudulent (1) or not (0).
 
 Methodology
