@@ -8,6 +8,7 @@ Dataset
 The dataset is anonymized credit card transaction data with several features, such as transaction time, amount, and more. The target variable is a binary variable that indicates whether the transaction is fraudulent (1) or not (0).
 
 Methodology
+
 Data Preprocessing: Handled missing values, scaled features, and balanced the dataset using techniques such as SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance.
 
 Exploratory Data Analysis (EDA): Explored feature correlations, data distribution, and visualized key patterns in the data.
