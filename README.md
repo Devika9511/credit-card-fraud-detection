@@ -9,8 +9,11 @@ The dataset is anonymized credit card transaction data with several features, su
 
 Methodology
 Data Preprocessing: Handled missing values, scaled features, and balanced the dataset using techniques such as SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance.
+
 Exploratory Data Analysis (EDA): Explored feature correlations, data distribution, and visualized key patterns in the data.
+
 Model Development: Built and evaluated models such as logistic regression, decision trees, random forests, and gradient boosting.
+
 Model Evaluation: Used metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to evaluate the performance of the model.
 
 This project depends on the following project dependencies:
